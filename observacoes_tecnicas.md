@@ -1,0 +1,6 @@
+- O projeto utiliza Google Sheets como camada operacional e analítica.
+- O Supabase foi utilizado como banco de dados relacional principal.
+- A integração atual entre planilha e banco ocorre por meio de arquivos CSV.
+- A tabela entrada_tarefas_sheets funciona como tabela de estágio.
+- A tabela tarefas representa a base principal consolidada da operação.
+- A aba Base_Historico foi preparada como evolução futura da solução.
